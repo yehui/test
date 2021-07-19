@@ -1,2 +1,3 @@
 # test
-+ "file merge1"
+1. + "file squash"
+2. + "file merge1"
